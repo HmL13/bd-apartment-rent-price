@@ -1,0 +1,4 @@
+Flask==2.2.5
+numpy==1.24.4
+Requests==2.32.3
+streamlit==1.36.0
