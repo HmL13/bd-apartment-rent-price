@@ -22,7 +22,7 @@ st.markdown(
         overflow: hidden;  /* Disable scrolling */
     }
     .stApp {
-        background: url('https://cdn.discordapp.com/attachments/762960761378308096/1261288769231781981/image.png?ex=66926a34&is=669118b4&hm=dbe79c89969c8107c2b626b068ecb872644c781ff82a95d6eb6d4b3433a4f3e6&') no-repeat center center fixed;
+        background: url('https://cdn.discordapp.com/attachments/762960761378308096/1261288769231781981/image.png?ex=66d99b34&is=66d849b4&hm=c02f968bca07bd630d435d36f440967efa18318d37e07409e0c99fc89450e8ef&') no-repeat center center fixed;
         background-size: 100% 110%;
     }
     
